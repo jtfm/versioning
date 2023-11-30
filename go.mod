@@ -1,3 +1,3 @@
-module github.com/jtfm/go-versioning
+module github.com/jtfm/versioning
 
 go 1.19
